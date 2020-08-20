@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Grid, Cell, Button } from "react-mdl";
+import { Grid, Cell } from "react-mdl";
 import "../App.css";
 
 class landingPage extends Component {
@@ -140,11 +140,8 @@ class landingPage extends Component {
                 <h1 className="bottom" style={{ color: "mediumseagreen" }}>
                   <b>Make a change and start investing in yourself today.</b>
                 </h1>
-                <h1
-                  className="bottom"
-                  style={{ color: "black", textDecoration: "underline" }}
-                >
-                  <b>Join Now</b>
+                <h1 className="bottom" style={{ color: "black" }}>
+                  <b>Learn Today</b>
                 </h1>
               </div>
             </div>

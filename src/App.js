@@ -30,8 +30,7 @@ class App extends Component {
             scroll
           >
             <Navigation>
-              <Link to="signIn">Register</Link>
-              <Link to="login">Login</Link>
+              <Link to="login">Contact us</Link>
             </Navigation>
           </Header>
           <Drawer title="Menu">

@@ -6,7 +6,6 @@ import HtmlPage from "./htmlPage";
 import CssPage from "./cssPage";
 import JavaPage from "./javaPage";
 import Login from "./login";
-import SignIn from "./signIn";
 
 const Main = () => (
   <Switch>
@@ -15,7 +14,6 @@ const Main = () => (
     <Route path="/cssPage" component={CssPage} />
     <Route path="/javaPage" component={JavaPage} />
     <Route path="/login" component={Login} />
-    <Route path="/signin" component={SignIn} />
   </Switch>
 );
 
