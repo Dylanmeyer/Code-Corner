@@ -48,27 +48,27 @@ class App extends Component {
             <FooterSection type="middle">
               <FooterDropDownSection className="footer-bottom" title="Features">
                 <FooterLinkList style={{ paddingLeft: "145px" }}>
-                  <a href="#">About us</a>
-                  <a href="#">Terms</a>
+                  <a href="/">About us</a>
+                  <a href="/">Terms</a>
                 </FooterLinkList>
               </FooterDropDownSection>
               <FooterDropDownSection title="Contact us">
                 <FooterLinkList style={{ paddingLeft: "145px" }}>
-                  <a href="#">Contact number</a>
-                  <a href="#">Email</a>
+                  <a href="/">Contact number</a>
+                  <a href="/">Email</a>
                 </FooterLinkList>
               </FooterDropDownSection>
               <FooterDropDownSection title="FAQ">
                 <FooterLinkList style={{ paddingLeft: "145px" }}>
-                  <a href="#">Questions</a>
-                  <a href="#">Answers</a>
+                  <a href="/">Questions</a>
+                  <a href="/">Answers</a>
                 </FooterLinkList>
               </FooterDropDownSection>
             </FooterSection>
             <FooterSection type="bottom" logo="Code Corner Inc.">
               <FooterLinkList>
-                <a href="#">Help</a>
-                <a href="#">Privacy & Terms</a>
+                <a href="/">Help</a>
+                <a href="/">Privacy & Terms</a>
               </FooterLinkList>
             </FooterSection>
           </Footer>
