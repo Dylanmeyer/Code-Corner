@@ -57,7 +57,10 @@ class htmlPage extends Component {
               </h2>
             </div>
             <div>
-              <img src="https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-1-6.png" />
+              <img
+                src="https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-1-6.png"
+                alt=""
+              />
             </div>
             <div>
               <h2
@@ -71,7 +74,10 @@ class htmlPage extends Component {
               </h2>
             </div>
             <div>
-              <img src="https://mason.gmu.edu/~kshiffl4/375/HTML_Tags.jpg" />
+              <img
+                src="https://mason.gmu.edu/~kshiffl4/375/HTML_Tags.jpg"
+                alt=""
+              />
             </div>
             <div>
               <h2
@@ -90,6 +96,7 @@ class htmlPage extends Component {
             <div>
               <img
                 src="https://kumarsher45.files.wordpress.com/2015/01/html-5-page-structure.jpg"
+                alt=""
                 width="1000px"
               />
             </div>
@@ -111,6 +118,7 @@ class htmlPage extends Component {
               <iframe
                 width="871"
                 height="490"
+                title="HTML tutorial"
                 src="https://www.youtube.com/embed/UB1O30fR-EE"
                 frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

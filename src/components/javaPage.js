@@ -130,10 +130,12 @@ class javaPage extends Component {
             <div>
               <img
                 src="https://stackify.com/wp-content/uploads/2018/10/JavaScript-Tutorials-for-Beginners-881x441.jpg"
+                alt=""
                 style={{ paddingTop: "300px" }}
               />
               <img
                 src="https://miro.medium.com/max/788/1*HJY_2vNKkNkqRQhLZcYlyg.png"
+                alt=""
                 style={{ marginTop: "350px" }}
               />
             </div>
@@ -160,6 +162,7 @@ class javaPage extends Component {
               </p>
               <img
                 src="https://i.pinimg.com/originals/2e/dc/5c/2edc5c169bd1117e93bb327a2b318f60.jpg"
+                alt=""
                 style={{ paddingLeft: "25px" }}
               />
             </div>
@@ -182,6 +185,7 @@ class javaPage extends Component {
               <iframe
                 width="956"
                 height="538"
+                title="Javascript tutorial"
                 src="https://www.youtube.com/embed/PkZNo7MFNFg"
                 frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -192,6 +196,7 @@ class javaPage extends Component {
           <Cell col={6}>
             <img
               src="https://image.slidesharecdn.com/javascript-140415204153-phpapp01/95/javascript-14-638.jpg"
+              alt=""
               style={{ paddingTop: "150px", paddingLeft: "100px" }}
             />
           </Cell>

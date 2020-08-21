@@ -54,7 +54,10 @@ class cssPage extends Component {
               </h2>
             </div>
             <div>
-              <img src="https://mdn.mozillademos.org/files/17009/declaration-block.png" />
+              <img
+                src="https://mdn.mozillademos.org/files/17009/declaration-block.png"
+                alt=""
+              />
             </div>
             <div>
               <h2
@@ -70,6 +73,7 @@ class cssPage extends Component {
             <div>
               <img
                 src="https://bennadel-cdn.com/resources/uploads/cfdump/coldfusion_css_rule_property_map.gif"
+                alt=""
                 width="500px"
               />
             </div>
@@ -92,6 +96,7 @@ class cssPage extends Component {
               <iframe
                 width="871"
                 height="490"
+                title="CSS tutorial"
                 src="https://www.youtube.com/embed/wNX7lWzchow"
                 frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -103,6 +108,7 @@ class cssPage extends Component {
             <img
               className="last-image"
               src="https://content.linkedin.com/content/dam/me/learning/blog/2016/september/CSS.jpg"
+              alt=""
             />
           </Cell>
         </Grid>

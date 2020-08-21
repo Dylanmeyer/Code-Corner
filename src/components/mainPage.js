@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Grid, Cell } from "react-mdl";
 import "../App.css";
 
-class landingPage extends Component {
+class LandingPage extends Component {
   render() {
     return (
       <div>
@@ -39,7 +39,7 @@ class landingPage extends Component {
             <div className="backing">
               <img
                 src="https://png.pngtree.com/thumb_back/fh260/background/20190828/pngtree-design-background-of-person-working-on-his-computer-in-top-view-image_307725.jpg"
-                alt="background-image"
+                alt=""
                 className="backgraound-img"
                 width="900px"
               />
@@ -57,7 +57,7 @@ class landingPage extends Component {
             <div className="icon-backing">
               <img
                 src="https://miro.medium.com/max/2800/1*5OESKBkRDpjUUbsXwVkbjA.jpeg"
-                alt="image-background"
+                alt=""
                 className="image-background"
                 width="860px"
               />
@@ -88,7 +88,7 @@ class landingPage extends Component {
             <div className="info-back">
               <img
                 src="https://www.amarinfotech.com/wp-content/uploads/2018/12/programming-languages-2019.jpg"
-                alt="image-back"
+                alt=""
                 className="image-back"
                 width="1700px"
               />
@@ -152,4 +152,4 @@ class landingPage extends Component {
   }
 }
 
-export default landingPage;
+export default LandingPage;
